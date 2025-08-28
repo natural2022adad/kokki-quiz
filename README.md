@@ -1,3 +1,3 @@
 # kokki-quiz
-
-githubにアップロード
+kokki_quiz2.pyを実行させるとTkinterアプリが起動します。
+wiki_screping.pyで事前にデータを取得しarray_output3.csvに保存させてから上記アプリを起動させます。
