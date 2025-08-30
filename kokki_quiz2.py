@@ -17,7 +17,7 @@ lunch_value = []
 hints = []
 score = 0
 click_times = 0
-with open("/home/haruki/array_outpu3.csv") as csvfile:
+with open("/home/haruki/array_output4.csv") as csvfile:
     reader = csv.reader(csvfile)
     for line in reader:
         res.append(line)
